@@ -1,7 +1,7 @@
 # Bem Vindos ao meu GitHub!
 ### Meu nome é Carlos e adoro aprender sobre novas tecnologias e suas particularidades!
 
-
+<br>
 
 # Ferramentas e Tecnologias Back-End
 <div>
@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" width="70" height="70" align="center"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" width="70" height="70" align="center"/>
 </div>
+<br>
 
 # Cloud computing
 
