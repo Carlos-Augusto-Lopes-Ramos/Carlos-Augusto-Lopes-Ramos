@@ -2,7 +2,8 @@
 ### Meu nome é Carlos e adoro aprender sobre novas tecnologias e suas particularidades!
 
 <br>
-### Ferramentas e Tecnologias Front-End
+
+## Ferramentas e Tecnologias Front-End
 <br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70" height="70" align="center"/>
@@ -15,7 +16,8 @@
 </div>
 <br>
 <br>
-### Ferramentas e Tecnologias Back-End
+
+## Ferramentas e Tecnologias Back-End
 <br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="70" height="70" align="center"/>     
@@ -26,7 +28,7 @@
 </div>
 <br>
 
-# Cloud computing
+## Cloud computing
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70" align="center""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="70" height="70" align="center"/>
