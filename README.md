@@ -1,8 +1,3 @@
-# Bem Vindos ao meu GitHub!
-### Meu nome é Carlos e adoro aprender sobre novas tecnologias e suas particularidades!
-
-<br>
-
 ## Ferramentas e Tecnologias Front-End
 <br>
 <div>
