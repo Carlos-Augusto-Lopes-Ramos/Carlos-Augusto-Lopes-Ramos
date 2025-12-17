@@ -64,8 +64,8 @@ Atuo no desenvolvimento de aplicações **web e mobile**, com foco em **boas pr�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos-Augusto-Lopes-Ramos&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Augusto-Lopes-Ramos&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ Atuo no desenvolvimento de aplicações **web e mobile**, com foco em **boas pr�
 ## 📫 Contato
 
 * 💼 LinkedIn: [*https://www.linkedin.com/in/carlos-augusto-lopes-ramos/*](https://www.linkedin.com/in/carlos-augusto-lopes-ramos/)
-* 📧 Email: [*profissional.calr@gmail.com*](profissional.calr@gmail.com)
+* 📧 Email: profissional.calr@gmail.com
 
 ---
 
