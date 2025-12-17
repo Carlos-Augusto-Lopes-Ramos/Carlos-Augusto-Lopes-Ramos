@@ -28,3 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="70" height="70" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="70" height="70" align="center"/>
 </div>
+
+## Mobile
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="70" height="70" align="center" alt="Ionic Logo" /> 
+</div>
