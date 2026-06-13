@@ -88,8 +88,8 @@ Sou especialista em **Java/Spring Boot** no back-end e **React/TypeScript** no f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Carlos-Augusto-Lopes-Ramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Augusto-Lopes-Ramos&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 ---
