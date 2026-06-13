@@ -8,10 +8,10 @@
   <a href="mailto:profissional.calr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-augusto-lopes-ramos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Magé,_RJ-Brasil-009c3b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/,_RJ-Brasil-009c3b?style=for-the-badge" />
 </p>
 
 ---
