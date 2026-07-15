@@ -38,7 +38,7 @@ Sou especialista em **Java/Spring Boot** no back-end e **React/TypeScript** no f
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF2D20?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=python&logoColor=white)
 
 **Front-end & Mobile**
 
